@@ -12,11 +12,11 @@ Because the application is already been developed, it would be a waste to not sh
 
 
 ## How to download and make the application ready to use
-1. Visit the only trusted source to download the app at: https://github.com/lazemiko/percept_pc_unofficial_data_visualiser_public
+1. Visit the only trusted source to download the app at: https://github.com/lazemiko/pudva
 2. Here, above the ReadMe.md text you will see three files,  that are the followings:
   - README.md
-  - ChangeLog.md
-  - PUDVA_v0.71.123.zip
+  - ChangeLog.md (yet to come)
+  - pudva_v0.7.1.20210911.1.zip
 
   Whichever "PUDVA" .zip file you find in here is the latest available, public version of the application. If you are interested in older versions, please use the contact options that are in the application, or at github/twitter.
 3. Click on the name of the "PUDVA" file, with the left mouse button. ( That will load a new page. )
