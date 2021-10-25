@@ -43,3 +43,37 @@ Short, readable version of the license:
   - NonCommercial — You may not use the material for commercial purposes.
   - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
   - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+## Changelog
+##### Version: v0.7.1.20211025.1
+```
+Release date: 2021.10.25
+Changes:
+- Text restructured on pages "Home" and "About"
+- Added buttons for Notification page, "Copy to Clipboard" and "Export to file"
+Hidden:
+- Added modules of "markdown", "requests", and "tkhtmlview", all for the .md text display
+- On Data page the date interval buttons now count from the topmost date
+- LFP and Amp limits are added, and read from the file.
+- On Data page the graph with the limit plots are more readable, a 5% buffer area was added.
+- Added option to File page to convert normal data file to anonym version.
+- Application packaging now happens in a separate environment dedicated to this process.
+```
+##### Version: v0.7.1.20210922.1
+```
+Release date: 2021.09.22
+Changes:
+- Code cleanup and optimisation.
+- Events are properly shown now (EventLog was missing competly, other events appeared incorrectly)
+- "Unload File" button was added to clear the currently loaded data
+- "Notification" page now records more runtime information ( both detailed error messages, and notifications )
+- Application was renamed to "PUDVA" as of ( PerceptPC Unofficial Data Visualizer Application )
+- Application is now available on the "github.com" website for download at:
+https://github.com/lazemiko/pudva
+```
+##### Version: v0.7.0.20210902.1
+```
+Release date: 2021.09.02
+Changes:
+- Initial release of this 'preview' version.
+```
